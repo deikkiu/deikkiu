@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGhgIk6T1mUHg/profile-displaybackgroundimage-shrink_350_1400/0/1675349131691?e=1681344000&v=beta&t=UHa6YjQVK6Yp8BF7XV5-6c3e_bS0X0iUxde1oGH3Zc0)
 <h1 align="center">Hi 👋, I'm Timur Smagulov</h1>
 <h3 align="center">Front-end developer | TypeScript & React</h3>
 <img align="right" src="https://media.tenor.com/w5EFZpYKe8MAAAAC/anime-anime-funny.gif" alt="Coding" width="300" height="220"/>
