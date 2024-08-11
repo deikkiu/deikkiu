@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Timur Smagulov</h1>
-<h3 align="center">Front-end developer | TypeScript & Vue</h3>
+<h3 align="center">Front-end developer | TypeScript & React</h3>
 <img align="right" src="https://media.tenor.com/w5EFZpYKe8MAAAAC/anime-anime-funny.gif" alt="Coding" width="300" height="220"/>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://deikkiu.github.io/web-portfolio/](https://deikkiu.github.io/web-portfolio/)
 
-- 💬 Ask me about **TypeScript, Vue**
+- 💬 Ask me about **TypeScript, React**
 
 - 📫 How to reach me **deikku@mail.ru**
 
